@@ -1,7 +1,7 @@
-package name.frampton.matt.controller;
+package controllers;
 
-import name.matt.frampton.model.Course;
-import name.matt.frampton.model.CourseOfferings;
+import models.Course;
+import models.CourseOfferings;
 
 
 public class CourseOfferingController 

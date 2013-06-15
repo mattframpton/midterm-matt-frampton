@@ -1,4 +1,4 @@
-package name.matt.frampton.model;
+package models;
 
 public class Enrollment 
 {

@@ -1,7 +1,7 @@
-package name.frampton.matt.controller;
+package controllers;
 
-import name.matt.frampton.model.Student;
-import name.matt.frampton.model.StudentRecords;
+import models.Student;
+import models.StudentRecords;
 
 public class StudentRecordController 
 {

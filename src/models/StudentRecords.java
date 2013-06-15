@@ -1,9 +1,10 @@
-package name.matt.frampton.model;
+package models;
 
 import java.util.Enumeration;
 import java.util.Hashtable;
 
-import name.frampton.matt.controller.StudentRecordController;
+import controllers.StudentRecordController;
+
 
 public class StudentRecords 
 {	

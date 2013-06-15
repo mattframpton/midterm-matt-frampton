@@ -1,4 +1,4 @@
-package name.matt.frampton.view;
+package view;
 
 
 
@@ -7,11 +7,12 @@ import java.io.FileNotFoundException;
 import java.util.NoSuchElementException;
 import java.util.Scanner;
 
-import name.frampton.matt.controller.CourseOfferingController;
-import name.frampton.matt.controller.CourseRegistrationController;
-import name.frampton.matt.controller.StudentRecordController;
-import name.matt.frampton.model.Course;
-import name.matt.frampton.model.Student;
+import controllers.CourseOfferingController;
+import controllers.CourseRegistrationController;
+import controllers.StudentRecordController;
+
+import models.Course;
+import models.Student;
 
 
 public class StudentSystem 

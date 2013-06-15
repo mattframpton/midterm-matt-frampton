@@ -1,4 +1,4 @@
-package name.matt.frampton.model;
+package models;
 
 import java.util.Enumeration;
 import java.util.Hashtable;

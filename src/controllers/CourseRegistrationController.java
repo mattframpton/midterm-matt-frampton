@@ -1,8 +1,8 @@
-package name.frampton.matt.controller;
+package controllers;
 
-import name.matt.frampton.model.Course;
-import name.matt.frampton.model.Enrollment;
-import name.matt.frampton.model.Student;
+import models.Course;
+import models.Enrollment;
+import models.Student;
 
 public class CourseRegistrationController 
 {
